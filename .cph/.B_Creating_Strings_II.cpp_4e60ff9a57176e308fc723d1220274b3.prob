@@ -1,0 +1,1 @@
+{"name":"Local: B_Creating_Strings_II","url":"g:\\div2\\B_Creating_Strings_II.cpp","tests":[{"id":1714394074895,"input":"aabac\n","output":""},{"id":1714395853351,"input":"abcdef","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\div2\\B_Creating_Strings_II.cpp","group":"local","local":true}

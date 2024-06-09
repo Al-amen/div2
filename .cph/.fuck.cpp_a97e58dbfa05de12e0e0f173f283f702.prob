@@ -1,0 +1,1 @@
+{"name":"Local: fuck","url":"g:\\div2\\fuck.cpp","tests":[{"id":1709223652222,"input":"3\n2\n00\n00\n4\n1101\n1100\n8\n00100111\n11101101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\div2\\fuck.cpp","group":"local","local":true}

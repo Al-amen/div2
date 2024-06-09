@@ -1,0 +1,1 @@
+{"name":"Local: div_A","url":"g:\\div2\\div_A.cpp","tests":[{"id":1710600535426,"input":"6\n2 0\n2 1\n4 1\n5 10\n5 3\n4 4\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\div2\\div_A.cpp","group":"local","local":true}

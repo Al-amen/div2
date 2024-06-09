@@ -1,0 +1,1 @@
+{"name":"Local: A_cess_for_class","url":"g:\\div2\\A_cess_for_class.cpp","tests":[{"id":1715958211305,"input":"7\n0 0 0\n0 1 1\n1 1 1\n1 1 2\n3 3 3\n3 4 5\n1 1 10\n","output":"0\n1\n-1\n2\n-1\n6\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\div2\\A_cess_for_class.cpp","group":"local","local":true}
